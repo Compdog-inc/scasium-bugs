@@ -1,7 +1,7 @@
 # Scasium bug reporting
 
 ## Before reporting
-Before reporting a bug, first check if it has already been reported.
+Before reporting a bug, first check if it has been reported already.
 
 ## Reporting a bug
  1. Create a new issue
